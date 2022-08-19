@@ -12,9 +12,17 @@
 
 <body>
     <div class="container">
-        <div id="end" class="flec-center flex-column">
+        <div id="end" class="flex-center flex-column">
             <h1 id="finalScore">0</h1>
+            <form class="end-form-container">
+                <h2 #="end-text">Enter Your Name Into The Hall Of Fame!</h2>
+                <input type="text" name="name" id="username" placeholder="Enter Your Record">
+                <button class="btn" id="saveScoreBtn" type="submit" onClick="saveHighScore(event)">Save</button>
+            </form>
+            <a href="game.html" class="btn">Can you do better?</a>
+            <a href="index.html" class="btn">Give up?</a>
         </div>
+    </div>
     </div>
 </body>
 <script src="https://kit.fontawesome.com/de12f2c7bd.js" crossorigin="anonymous"></script>
