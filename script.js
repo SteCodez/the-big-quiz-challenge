@@ -66,7 +66,7 @@ let questions = [
         choice2: '343 Industries',
         choice3: 'Bungie',
         choice4: 'Blizzard Entertainment',
-        answer: '4'
+        answer: '4',
     }, {
         question: 'What is the mass per unit volume of material called?',
         choice1: 'Weight',
@@ -80,13 +80,82 @@ let questions = [
         choice2: '357268402 Meters per second',
         choice3: '682900175 Meters per second',
         choice4: 'Light cannot travel in a vacuum',
-        answer: '1'
+        answer: '1',
+    }, {
+        question: 'What year did Elvis die?',
+        choice1: '1973',
+        choice2: '1975',
+        choice3: '1976',
+        choice4: '1977',
+        answer: '4',
+    }, {
+        question: 'Which technique did Vincent van Gogh use to paint his "Sunflowers"?',
+        choice1: 'Baroque',
+        choice2: 'Impasto',
+        choice3: 'Art Nouveau',
+        choice4: 'Fauvism',
+        answer: '2',
+    }, {
+        question: 'What famous man became president of his country after being in jail for 18 years?',
+        choice1: 'Ghandi',
+        choice2: 'Fidel Castro',
+        choice3: 'Nelson Mandela',
+        choice4: 'Olusegun Obasanjo',
+        answer: '3',
+    }, {
+        question: 'In "The Jungle Book", what kind of animal is Baloo?',
+        choice1: 'Lion',
+        choice2: 'Snake',
+        choice3: 'Bear',
+        choice4: 'Hyaena',
+        answer: '3',
+    }, {
+        question: 'What is the capital of Alaska?',
+        choice1: 'Anchorage',
+        choice2: 'Juneau',
+        choice3: 'Glacier Bay',
+        choice4: 'Healy',
+        answer: '2',
+    }, {
+        question: 'How many people have walked on the moon?',
+        choice1: '0',
+        choice2: '5',
+        choice3: '9',
+        choice4: '12',
+        answer: '4',
+    }, {
+        question: 'What was the first movie to be rated PG-13?',
+        choice1: 'Beetlejuice',
+        choice2: 'American Psycho',
+        choice3: 'Red Dawn',
+        choice4: 'Pretty Woman',
+        answer: '3',
+    }, {
+        question: 'An atomic pile was an early name for what?',
+        choice1: 'A pile of Nukes',
+        choice3: 'A mushroom cloud',
+        choice2: 'An atomic waste storage facility',
+        choice4: 'A nuclear reactor',
+        answer: '4',
+    }, {
+        question: 'hich keyboard letter do we press with the "control" button to undo an action?',
+        choice1: 'U',
+        choice2: 'Z',
+        choice3: 'B',
+        choice4: 'X',
+        answer: '2',
+    }, {
+        question: 'How long on average do sloths take to digest a meal?',
+        choice1: '6 hours',
+        choice2: '12 hours',
+        choice3: '1 week',
+        choice4: '1 month',
+        answer: '4',
     },
-
 ];
 
 const SCORE_POINTS = 100;
-const MAX_QUESTIONS = 10;
+const MAX_QUESTIONS = 20;
 
 startGame = () => {
     questionCounter = 0;
