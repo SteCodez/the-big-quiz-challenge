@@ -81,11 +81,12 @@ width: 95%;
 
 #progressBar {
     border: 0.3rem solid rgb(11, 223, 36);
-    width: 30rem;
+    width: 25rem;
     height: 3rem;
     margin-top: 2rem;
     border-radius: 50px;
     overflow: hidden;
+    padding-right: 1rem;
 }
 
 #progressBarFull {
