@@ -51,6 +51,7 @@ body {
 }
 
 #hud {
+    padding-top: 40px;
     display: flex;
     justify-content: space-between;
 }
@@ -62,6 +63,7 @@ body {
 
 .hud-main-text {
     text-align: center;
+    padding-right: 40px;
 }
 
 #progressBar {
