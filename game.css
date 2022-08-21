@@ -18,6 +18,10 @@ body {
     background: rgb(18, 93, 255);
     font-size: 3rem;
     min-width: 80rem;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .choice-container:hover {
@@ -46,8 +50,11 @@ body {
 }
 
 .choice-container {
-    max-width: 768px;
-    min-width: 40rem;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 #hud {
