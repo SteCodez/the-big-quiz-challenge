@@ -138,7 +138,7 @@ let questions = [
         choice4: 'A nuclear reactor',
         answer: '4',
     }, {
-        question: 'hich keyboard letter do we press with the "control" button to undo an action?',
+        question: 'Which keyboard letter do we press with the "control" button to undo an action?',
         choice1: 'U',
         choice2: 'Z',
         choice3: 'B',
