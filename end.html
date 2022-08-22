@@ -3,26 +3,28 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
     <link rel="stylesheet" href="style.css">
-    <title>Quiz End</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css"
+        integrity="sha384-xxzQGERXS00kBmZW/6qxqJPyxW3UR0BPsL4c8ILaIWXva5kFi7TxkIIaMiKtqV1Q" crossorigin="anonymous">
 </head>
+
 <body>
     <div class="container">
         <div id="end" class="flex-center flex-column">
             <h1 id="finalScore">0</h1>
             <form class="end-form-container">
-                <h2 id="end-text">Enter Your Name Into The Hall Of Fame! But If You're A Go Getter, Can You Do Better?
-                </h2>
-                <input type="text" name="name" id="username" placeholder="Enter Your Record">
-                <button class="btn" id="saveScoreBtn" type="submit" onClick="saveHighScore(event)">Save</button>
+                <h2 id="end-text">Enter Your Name Into The Hall Of Fame! But If You're A Go Getter, Can You Do Better?</h2>
+                <input type="text" name="name" id="username" placeholder="Enter your name">
+                <button class="btn" id="saveScoreBtn" type="submit" onclick="saveHighScore(event)"
+                    disabled>Save</button>
             </form>
-            <a href="game.html" class="btn">Try again?</a>
-            <a href="index.html" class="btn">Give up?</a>
+            <a href="game.html" class="btn">Try Again</a>
+            <a href="index.html" class="btn">Go Home and give up?<i class="fas fa-home"></i></a>
         </div>
     </div>
     <script src="end.js"></script>
 </body>
-<script src="https://kit.fontawesome.com/de12f2c7bd.js" crossorigin="anonymous"></script>
+
 </html>
