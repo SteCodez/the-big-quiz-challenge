@@ -117,19 +117,20 @@ The color pallete I went with was black background with all blue buttons except 
 | I expect the choice buttons to flash red when the incorrect answer is selected.| The button successfully flashed red when the incorrect answer was selected. | No issues. | Yes.
 | I expect the time transitioning from question to question to consistently take less than 1 second. | The time between questions remained at an acceptable level throughout. | No issues. | Yes.
 | I expect all buttons on the end page to be fully functional and complete the assigned tasks. | All buttons succesfull submitted and/or transitioned to the assigned location. | No issues. | Yes.
-| I expect the name submitted on the end page to successfully transfer with the aquired score to the successfully transfer to the leaderboard without issue. | The name and score did not succesfully transfer to the leaderboard because of a typo in the highscore.js page causing the leader board to target an empty array instead of the ID on line 1. | Changed line 4 to "highScoresList" as opposed to "highScores". | Yes.
-|Testing "index.html" on the W3C Validator|Zero errors shown||Yes
-|Testing "gallery.html" on the W3C Validator |Zero errors shown||Yes
-|Testing "bookings.html on the W3C Validator|Zero errors shown||Yes
+| I expect the name submitted on the end page to successfully transfer with the aquired score to the successfully transfer to the leaderboard without issue. | The name and score did not succesfully transfer to the leaderboard because of a typo in the highscore.js page causing the leader board to target an empty array instead of the ID on line 1. | Changed line 4 to "highScoresList" as opposed to "highScores". | | Yes.
+|Testing "html" pages on the W3C Validator. | Zero errors shown. |  | Yes.
+|Testing "CSS" pages on the W3C Validator. | Zero errors shown. |  | Yes.
+|Testing "JavaScript" files on JShint. | A few warnings shown, mostly for lack of semicolons. Some undefined variables but overall a good respones and no issues with the functionality of the site. |  | Yes.
 
->[Home page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-index.png?raw=true)
->[Cocktail page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-cocktails.png?raw=true)
->[Gallery page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-gallery.png?raw=true)
->[Bookings page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-bookings.png?raw=true)
->[Style.css page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/css-validator.png?raw=true)
+* [Home page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-index.png?raw=true)
+* [Quiz page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-cocktails.png?raw=true)
+* [End page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-gallery.png?raw=true)
+* [Leaderboard page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-bookings.png?raw=true)
+* [Style.css page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/css-validator.png?raw=true)
 
 ## Credits
 ***
-https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
-https://www.pexels.com/
-https://www.stockvault.net/
+
+* https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
+* Brian Design tutorials
+* 
