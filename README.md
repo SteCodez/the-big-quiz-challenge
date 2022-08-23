@@ -17,77 +17,18 @@ The purpose of this site is to make a fun but challanging quiz application using
 ---
 A list of frequently asked questions
 ---
-#### 1. **As a user I would like a quiz application that is easily navigated with obvious pathways taking me where I want to go.**
-*As a user I found this particular application very easy and straighforward to navigate with clear pathways leading me to start the quiz, restart the quiz and to navigate back to the homepage
+#### **As a user using this application the things I would like to see are.**
+*An interesting and challanging quiz.
+*Multiple choices.
+*A way to keep track of scores.
+*A leaderboard to show past scores.
  
----
+ #### **As a user returning to this application the things I would like to see are.**
+ *New questions.
+ *A way to share scores with other users.
+ *Pictures to accompany the questions or right answers.
 
-#### 2. **As a user I always like a clear indication of what the sites purpose is**
-*As a user it was obvious what the purpose of the site was immediately after entering and throughout.
-
----
-
-#### 3. **As a user who doesnt have**
-As a user it was immediately apparent that No8 was based in Westport, Co Mayo and also that it was located along the Wild Atlantic Way. 
-
----
-
-#### 4. **As a user who who not like drinking cocktails will I have a clear understanding of what else No8 offers?**
-As a user I found the information boxes very helpfull in understanding that not only does No8 offer cocktails but has a vast selection of wines, beers and spirits as well.
-
----
-
-#### 5. **As a user who is looking for a food menu, will there be a clear path for me to get a food menu if there is not one already on the website?**
-As a user I found it acceptable that the food menu changes daily and that I can have an up to date menu sent fortwith increasing my user experience and ensuring I have the most recent additions to decide from 
-
----
-
-#### 6. **As a user will I find the site aesthetically pleasing upon entry?**
-As a user I found the consistent theme throughout very pleasing to the eye and enjoyed the experience of navigating through the pages.
-
----
-
-#### 7. **As a user who is looking to access No8's social media sites will there be a clear path for me to these links?**
-*As a user I found it very easy to access No's social media as there were link bars placed under the initial picture on every page as well as in the footer. Also there were reminders of No8's social media throughout the website
-
----
-
-#### 8. **As a user who is looking to find out about the cocktails of No8, will there be a clear path to the information I need and will it be readable?**
-*As a user who read the information box on the home page, verifying No8 does cocktails, I visited cocktail menu page where the names and contents  of each cocktail were listed.
-
----
-
-#### 9. **As a user who is concerned about the quality of the product im consuming, is it obvious that the product I am consuming isnt a cheap store bought mix?**
-As a user it is hightlighted at the top of the cocktail menu that ingredients are homemade and handcrafted. Homemade products are also labelled on the menu
-
----
-
-#### 10. **As a user who is planning a spur the moment type visit to No8 and is looking for opening times on the site, will it be that clear to me that seating is not guarunteed and I should book in advance to ensure a table?**
-As a user, when I visited the bookings page in search for the opening times, the first thing made apparent was that there was a banner instead of a large picture at the top of the bookings page, clearly stating I should book to avoid dissapointment. Which ensured I was guarunteed a meal instead of a wasted journey that evening.
-
----
-
-#### 11. ** As a user who is trying to make a booking, is it obvious to me what methods I can take to make a booking?**
-As a user who wants to book a table, I noticed the button for bookings at No8 almost immediately and was easily able to navigate to the contact form and succesfully make a booking.
-
----
-
-#### 12. **As a user who is looking to book for a large group, will it be clear that No8 accepts large groups and if so is there a path provided to complete a booking.**
-As a user booking for a large group, a notice requesting a call for larger bookings was placed on the bookings page which I found as an acceptable solution.
----
-
-#### 13. **As a user who is in Westport but cannot find the exact location of No8 Mill St, how can I find the exact location?**
-As a user who was struggling to locate No8, I found a map on the booking page and was easily able to pinpoint the exact location of no 8.
-
----
-
-#### 14. **As a user will I find all of the links and forms in working condition when I use the site?**
-As a user I was happy to see all of the links worked and all of th forms submitted on request.
-
----
-
-#### 15. **As a user who Is using a mobile, when i access it will the site fully functional, readable and still pleasing to the eye**
-As a user I found the site to in an acceptable state.
+ 
 ---
 ---
 ## Layout and Design
@@ -244,6 +185,7 @@ You can see the form is very simple, I think it has a ncie look a you scroll the
 > HTML5 
 > CSS
 > VSCode
+>
 > GitHub
 > GitPod
 > Google
