@@ -13,10 +13,11 @@
 
 * The purpose of this site is to make a fun but challanging quiz application using HTML, CSS and JavaScript. 
 * I followed multiple tutorials in preperation for this project and created this project app 3 times before having my own shot at it.
-* Even though I followed a tutorial I physically typed every single letter of code myself and can say I have a good understanding of the what/why of the code.
+* Even though I followed a tutorial I physically typed every single letter of code myself and can say I have a good understanding of the what/why of the code is and there were some alterations and bugs which I was able to figure out myself which boosted my confidence even more.
 * I genuinely struggled throughout this project but after completing this project over and over again I can say with confidence I am happy with the progression of my JavaScript although a lot of extra work is to be done to be at a level where I could create this app on my own.
-* The bulk of the styling is based on a tutorial but I had to customize it with my own media queries and added my own flare on the style.
-* Overall I am extremely comfortable with CSS and HTML, I find them very straightforward and easy to use.
+* The bulk of the styling is based on a tutorial but I had to customize it with my own media queries as they were not present and added my own flare on the style itself.
+* Overall I am extremely comfortable with CSS and HTML, I find them very straightforward and easy to use so I felt.
+* The JavaScript tutorial owner is a YouTuber named Brian Design, the vast majority of the code was created and can only be credited to him.
 
 ---
 ## User Stories
