@@ -9,8 +9,14 @@
 
 ## General Info
 ---
+---
 
-The purpose of this site is to make a fun but challanging quiz application using HTML, CSS and JavaScript. 
+* The purpose of this site is to make a fun but challanging quiz application using HTML, CSS and JavaScript. 
+* I followed multiple tutorials in preperation for this project and created this project app 3 times before having my own shot at it.
+* Even though I followed a tutorial I physically typed every single letter of code myself and can say I have a good understanding of the what/why of the code.
+* I genuinely struggled throughout this project but after completing this project over and over again I can say with confidence I am happy with the progression of my JavaScript although a lot of extra work is to be done to be at a level where I could create this app on my own.
+* The bulk of the styling is based on a tutorial but I had to customize it with my own media queries and added my own flare on the style.
+* Overall I am extremely comfortable with CSS and HTML, I find them very straightforward and easy to use.
 
 ---
 ## User Stories
@@ -44,11 +50,12 @@ The purpose of this site is to make a fun but challanging quiz application using
 
 
 #### Color Palette
-The color pallete I went with was black background with all blue buttons except for the button leading to the 
+The color pallete I went with was black background with all blue buttons except for the button leading to the highscores page which is yellow, also the progress bar is a shade of green. The buttons also turn green or red based on the answer being correct or incorrect. 
 
-> [colour red](https://github.com/SteCodez/No8-Tapas-Board/blob/main/scheme-red.png?raw=true)
-> [color black](https://github.com/SteCodez/No8-Tapas-Board/blob/main/color-black.png?raw=true)
-> [color white](https://github.com/SteCodez/No8-Tapas-Board/issues/1#issue-1306608323)
+* [color black](https://github.com/SteCodez/No8-Tapas-Board/blob/main/scheme-red.png?raw=true)
+* [color Blue](https://github.com/SteCodez/No8-Tapas-Board/blob/main/color-black.png?raw=true)
+* [color green](https://github.com/SteCodez/No8-Tapas-Board/issues/1#issue-1306608323)
+
 ---
 #### Inspiration & Page Intros
 When it came to layout and colour scheme I wanted a cool & unusual look. I was scrolling through pexels.com searching for inspiration when I came accross a picture of this neon cocktail sign which gave me the idea of a Cocktails meets moulin rouge, black and neon lights.
