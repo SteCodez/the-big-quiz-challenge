@@ -104,19 +104,18 @@ The color pallete I went with was black background with all blue buttons except 
 ---
 ## Testing
 
-* As I read through the code multiple times I am happt to say that there was a total of 1 error through all of the validation which was quicly resolved as a minor typo.
+* As I read through the code multiple times I am happt to say that there was a total of 1 error through all of the validation which was quickly resolved as a minor typo.
 
-* 
 
 [Screenshot first validation run.](https://github.com/SteCodez/No8-Tapas-Board/blob/main/errors.png?raw=true)
 
  | What is expected. | If the expected did not happen, why did it not? | How was the issue fixed? | Approved/issue resolved? |
    |-------------| ------------ | ------------- |------------- |
-| I expect the play button to start the quiz. | The play button successfully started | No issue |Yes
-| I expect the highscores button to take me to the leader board  | Highscores button succesfully transitioned to the leaderboard page | No issue |Yes
-|Testing request a menu form on the home page to see if the menu drops successfully.| Menu successfully submitted ||Yes
-|Testing the contact form submit action to see if the menu drops successfully.|My attemts to submit the form were not successful.|After reviewing the code I noticed that the button element was outside the form element causing the form to not connect to the button| Yes
-|Re-testing the contact form submit action | Contact form successfully submitted.||Yes
+| I expect the play button to start the quiz. | The play button successfully started. | No issue. | Yes.
+| I expect the highscores button to take me to the leader board.  | Highscores button succesfully transitioned to the leaderboard page. | No issue. | Yes.
+| I expect the choice buttons to flash green when the correct answer is selected.| The button successfully flashed green when the correct answer was selected. | No issues. | Yes.
+| I expect the choice buttons to flash red when the incorrect answer is selected.| The button successfully flashed red when the incorrect answer was selected. | No issues. | Yes.
+| I expect the time transitioning from question to question to consistently take less than 1 second. | The time between questions remained at an acceptable level throughout. | No issues. | Yes
 |Testing "index.html" on the W3C Validator|Zero errors shown||Yes
 |Testing "gallery.html" on the W3C Validator |Zero errors shown||Yes
 |Testing "bookings.html on the W3C Validator|Zero errors shown||Yes
