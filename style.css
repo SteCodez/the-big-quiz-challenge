@@ -16,7 +16,7 @@ h1 {
     border: 10px rgb(221, 255, 0);
     border-style: double;
     text-align: center;
-    font-size: 4.5rem;
+    font-size: 4rem;
     color: white;
     margin-bottom: 5rem;
     padding-left: 0.5rem;
@@ -28,7 +28,7 @@ h2 {
 }
 
 .container {
-    width: 80%;
+    width: 85%;
     height: 100%;
     display: flex;
     justify-content: center;
