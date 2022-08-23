@@ -112,21 +112,13 @@ The color pallete I went with was black background with all blue buttons except 
 
  | What is expected. | If the expected did not happen, why did it not? | How was the issue fixed? | Approved/issue resolved? |
    |-------------| ------------ | ------------- |------------- |
-
 | I expect the play button to start the quiz. | The play button successfully started | No issue |Yes
-
 | I expect the highscores button to take me to the leader board  | Highscores button succesfully transitioned to the leaderboard page | No issue |Yes
-
 |Testing request a menu form on the home page to see if the menu drops successfully.| Menu successfully submitted ||Yes
-
 |Testing the contact form submit action to see if the menu drops successfully.|My attemts to submit the form were not successful.|After reviewing the code I noticed that the button element was outside the form element causing the form to not connect to the button| Yes
-
 |Re-testing the contact form submit action | Contact form successfully submitted.||Yes
-
 |Testing "index.html" on the W3C Validator|Zero errors shown||Yes
-
 |Testing "gallery.html" on the W3C Validator |Zero errors shown||Yes
-
 |Testing "bookings.html on the W3C Validator|Zero errors shown||Yes
 
 >[Home page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-index.png?raw=true)
