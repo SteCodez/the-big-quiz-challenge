@@ -15,8 +15,6 @@ The purpose of this site is to make a fun but challanging quiz application using
 ## User Stories
 ---
 ---
-A list of frequently asked questions
----
 #### **As a user using this application the things I would like to see are.**
 *An interesting and challanging quiz.
 *Multiple choices.
