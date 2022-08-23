@@ -109,13 +109,15 @@ The color pallete I went with was black background with all blue buttons except 
 
 [Screenshot first validation run.](https://github.com/SteCodez/No8-Tapas-Board/blob/main/errors.png?raw=true)
 
- | What is expected. | If the expected did not happen, why did it not? | How was the issue fixed? | Approved/issue resolved? |
+ | What is expected. | Did the element successfully perform its task? If not, why? | How was the issue fixed? | Approved/issue resolved? |
    |-------------| ------------ | ------------- |------------- |
 | I expect the play button to start the quiz. | The play button successfully started. | No issue. | Yes.
 | I expect the highscores button to take me to the leader board.  | Highscores button succesfully transitioned to the leaderboard page. | No issue. | Yes.
 | I expect the choice buttons to flash green when the correct answer is selected.| The button successfully flashed green when the correct answer was selected. | No issues. | Yes.
 | I expect the choice buttons to flash red when the incorrect answer is selected.| The button successfully flashed red when the incorrect answer was selected. | No issues. | Yes.
-| I expect the time transitioning from question to question to consistently take less than 1 second. | The time between questions remained at an acceptable level throughout. | No issues. | Yes
+| I expect the time transitioning from question to question to consistently take less than 1 second. | The time between questions remained at an acceptable level throughout. | No issues. | Yes.
+| I expect all buttons on the end page to be fully functional and complete the assigned tasks. | All buttons succesfull submitted and/or transitioned to the assigned location. | No issues. | Yes.
+| I expect the name submitted on the end page to successfully transfer with the aquired score to the successfully transfer to the leaderboard without issue. | The name and score did not succesfully transfer to the leaderboard because of a typo in the highscore.js page causing the leader board to target an empty array instead of the ID on line 1. | Changed line 4 to "highScoresList" as opposed to "highScores". | Yes.
 |Testing "index.html" on the W3C Validator|Zero errors shown||Yes
 |Testing "gallery.html" on the W3C Validator |Zero errors shown||Yes
 |Testing "bookings.html on the W3C Validator|Zero errors shown||Yes
