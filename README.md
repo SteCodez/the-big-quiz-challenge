@@ -9,22 +9,23 @@
 
 ## General Info
 ---
----
+
 The purpose of this site is to make a fun but challanging quiz application using HTML, CSS and JavaScript. 
+
 ---
 ## User Stories
 ---
 ---
 #### **As a user using this application the things I would like to see are.**
-*An interesting and challanging quiz.
-*Multiple choices.
-*A way to keep track of scores.
-*A leaderboard to show past scores.
+* An interesting and challanging quiz.
+* Multiple choices.
+* A way to keep track of scores.
+* A leaderboard to show past scores.
  
  #### **As a user returning to this application the things I would like to see are.**
- *New questions.
- *A way to share scores with other users.
- *Pictures to accompany the questions or right answers.
+ * New questions.
+ * A way to share scores with other users.
+ * Pictures to accompany the questions or right answers.
 
  
 ---
@@ -33,18 +34,17 @@ The purpose of this site is to make a fun but challanging quiz application using
 ---
 ---
 #### Wireframe
-[Wireframe, phones](https://github.com/SteCodez/No8-Tapas-Board/blob/main/small-device.png?raw=true)
-[Wireframe, home page](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-head.png?raw=true)
-[Wireframe, cocktail menu](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-2.png?raw=true)
-[Wireframe, bookings](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe3.png?raw=true)
+* [Wireframe, phone, home](https://github.com/SteCodez/No8-Tapas-Board/blob/main/small-device.png?raw=true)
+* [Wireframe, phone, quiz](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-head.png?raw=true)
+* [Wireframe, phone, end](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-2.png?raw=true)
+* [Wireframe, phone, leaderboard](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe3.png?raw=true)
+
 ---
  #### Fonts
-When it came to fonts I did not want to go overboard so I copied the fonts from the Love Running which consisted of Oswald & Lato with a back up of sans-serif.
-I think the font goes nicely with the stylr, too think and it would take away from the classy look of the page.
-The sizes varied with the intro to the home page coming in at 50pxls to seperate it in its own way from the other pages.
+
 
 #### Color Palette
-The color pallete I went with was red, black and white.
+The color pallete I went with was black background with all blue buttons except for the button leading to the 
 
 > [colour red](https://github.com/SteCodez/No8-Tapas-Board/blob/main/scheme-red.png?raw=true)
 > [color black](https://github.com/SteCodez/No8-Tapas-Board/blob/main/color-black.png?raw=true)
