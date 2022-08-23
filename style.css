@@ -13,6 +13,8 @@ body {
 }
 
 h1 {
+    border: 10px rgb(221, 255, 0);
+    border-style: double;
     text-align: center;
     font-size: 4.5rem;
     color: white;
