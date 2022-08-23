@@ -12,8 +12,8 @@
 ---
 
 * The purpose of this site is to make a fun but challanging quiz application using HTML, CSS and JavaScript. 
-* I followed multiple tutorials in preperation for this and created this project tutorial as well as others 4 times before having my own shot at it.
-* Even though I followed a tutorial I physically typed every single letter of code myself and can now say I have a good understanding of the what/why of the code is and feel I have developed a much better understanding of JavaScript as a whole.
+* I followed multiple tutorials in preperation for this and created this project through a tutorial as well as others 4 times before having my own shot at it.
+* Even though I followed a tutorial I physically typed every single letter of code myself and can now say I have a good understanding of the what/why in the code and feel I have developed a much better understanding of JavaScript as a whole.
 * I genuinely struggled throughout this section of the course but after completing this project over and over again I can say with confidence I am happy with the progression of my JavaScript although a lot of extra work is to be done to be at a level where I could create this app on my own.
 * The bulk of the styling is based on a tutorial but I had to customize it with my own media queries as they were not present and added my own flare on the style itself.
 * Overall I am extremely comfortable with CSS and HTML, I find them very straightforward and easy to use so I felt.
@@ -33,11 +33,14 @@
  * New questions.
  * A way to share scores with other users.
  * Pictures to accompany the questions or right answers.
+ * Picture questions (identifying random objects)
 
  
 ---
 ---
+
 ## Layout and Design
+
 ---
 ---
 #### Wireframe
@@ -47,7 +50,7 @@
 
 ---
  #### Fonts
-
+* The font used throughout the app is Nova, its a simple font that adds a retro feel. I felt adding a secondary font was uncalled for as the site as a whole is not type heavy and the color scheme and layout of everything breaks the site up nicely enough to allow one font to look consistently well placed.
 
 #### Color Palette
 The color pallete I went with was black background with all blue buttons except for the button leading to the highscores page which is yellow, also the progress bar is a shade of green. The buttons also turn green or red based on the answer being correct or incorrect. 
@@ -56,10 +59,20 @@ The color pallete I went with was black background with all blue buttons except 
 * [Color Blue](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/blue_color_palette.png)
 * [Color Yellow](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/yellow_color_palette.png)
 * [Color green](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/green_color_palette.png)
+* [No answer](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/no_answer.png)
+* [Answer correct](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/right_answer.png)
+* [Answer Incorrect](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wrong_answer.png)
+
+#### General Layout
+
+* The overall layout of the app is very simple and straight forward, I feel the app has a very streamlined look and is quite pleasing to the eye regardlelss of the device it is played on. I had at least 20 people play through the quiz on various devices of various sizes and shapes and can confirm that virtually everyone said the app fit the screen perfect with no text or elements leaving the visible are of the screen.
+
+* The design leaves a lot of room for improvements if desired and the color scheme is very easily changed without compromising the overall color palette of the app.
 
 ---
 ---
 ## Technologies
+
 ***
 
 * HTML5 
@@ -107,4 +120,3 @@ The color pallete I went with was black background with all blue buttons except 
 
 * https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
 * Brian Design tutorials
-* 
