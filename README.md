@@ -65,9 +65,14 @@ The color pallete I went with was black background with all blue buttons except 
 
 #### General Layout
 
-* The overall layout of the app is very simple and straight forward, I feel the app has a very streamlined look and is quite pleasing to the eye regardlelss of the device it is played on. I had at least 20 people play through the quiz on various devices of various sizes and shapes and can confirm that virtually everyone said the app fit the screen perfect with no text or elements leaving the visible are of the screen.
-
+* The overall layout of the app is very simple and straight forward, I feel the app has a very streamlined look and is quite pleasing to the eye regardless of the device it is played on. I had at least 20 people play through the quiz on various devices of various sizes and shapes and can confirm that virtually everyone said the app fit the screen perfect with no text or elements leaving the visible are of the screen.
 * The design leaves a lot of room for improvements if desired and the color scheme is very easily changed without compromising the overall color palette of the app.
+* The site is 100% responsive across all devices of all shapes and sizes making for an extremely accessible gaming experience catering for all manners of peple from all walks of life.
+
+[Overall Responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/responsive_design_test.png) 
+[Quiz mobile Responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/quiz_game_responsiveness.png)
+[Home page mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/mobile_responsiveness.png)
+[Leaderboard mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/leaderboard_responsiveness.png)
 
 ---
 ---
@@ -120,3 +125,8 @@ The color pallete I went with was black background with all blue buttons except 
 
 * https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
 * Brian Design tutorials
+
+## Notes
+
+* I am aware that all of my files should have been compiled and was sure I would be able to do it at the end, unfortunately I had a conflict between VScode and GitHub which I was unable to resolve even tho I searched thoroughly online for methods of doing so. Somehow 2 branches clashed from me committing and it became a bit of a cluster mess and I had progressed passed that stage so I was fearful of fixing this issue and having the commit pushed and resetting all of the work I have done.
+* This issue is something I will address and should have done immediately. Fortunately it does not have a detremental effect on the project content itself but makes the project harder to navigate for other developers.
