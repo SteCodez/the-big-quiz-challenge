@@ -161,7 +161,7 @@ The color pallete I went with was black background with all blue buttons except 
 * 900px
 
 #### Unresolved errors
- According to the console log there were 4 errors, unfortunately I found it hard to understand why the marked variables were showing errors as the website showed complete functionality, also I left it too late to check the console log and there wasn't sufficient time to process the errors and processing errors was alot tougher due to doing everything through the live page rather than a third party like VScode where you are fed live information. In the future I intend to give myself more breathing space to properly analyze all issues that present themselves.
+ According to the console log there were 4 errors, unfortunately I found it hard to understand why the marked variables were showing errors as the website showed complete functionality, also I left it too late to check the console log and there wasn't sufficient time to process the errors and processing errors was alot tougher due to doing everything through the live page rather than a third party like VScode where you are fed live information. In the future I intend to give myself more breathing space to properly analyze all issues that present themselves. Although at first glance I do believe that these errors should caue no issues and are purely based on the syntax used, considering the fact there was some shorthand and variable definitions weren't imperative to the code working.
 
 * ![Unresolved errors](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_error.png)
 
