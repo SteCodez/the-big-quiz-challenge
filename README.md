@@ -34,6 +34,8 @@
 * Multiple choices.
 * A way to keep track of scores.
 * A leaderboard to show past scores.
+* A visual response making me aware of a correct/incorrect answer.
+* A visually appealing site.
  
  #### **As a user returning to this application the things I would like to see are.**
  * New questions.
