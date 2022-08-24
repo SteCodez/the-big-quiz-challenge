@@ -1,9 +1,9 @@
 # Project-2-The Big Quiz Challange
 ## Table of Contents
-1. [General Info](#Introduction)
+1. [General Info](#GeneralInfo)
 2. [User Stories](#UserStories)
-3. [Layout & Design](#Layout&Design)
-4. [Technologies Used](#TechnologiesUsed)
+3. [Layout and Design](#LayoutandDesign)
+4. [Technologies Used](#Technologies)
 5. [Testing](#Testing)
 6. [Credits](#Credits)
 
@@ -45,9 +45,9 @@
 ---
 #### Wireframe
 * [Wireframe, phones](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/phone_wireframes.png)
-* [Wireframe, tablets]()
-* [Wireframe, full screen]()
-
+* [Wireframe, tablets](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wireframes_tablet.png)
+* [Wireframe, full screen](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/computer_wireframe_one.png)
+* [Wireframe, full screen part two](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/computer_wireframes_two.png)
 ---
  #### Fonts
 * The font used throughout the app is Nova, its a simple font that adds a retro feel. I felt adding a secondary font was uncalled for as the site as a whole is not type heavy and the color scheme and layout of everything breaks the site up nicely enough to allow one font to look consistently well placed.
