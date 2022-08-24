@@ -134,14 +134,40 @@ The color pallete I went with was black background with all blue buttons except 
 ***
 ---
 ---
-*
+#### Deploying on GitHub pages
+* After creating all of the neccessary files for my project on VScode I committed the bulk of my code to GitHub.
+* After pulling all the code I navigated to my project repo.
+* I clicked the settings button in the nav bar
+* I then scrolled down and clicked the pages button on the left hand side of the screen.
+* After navigating successfully to the GitHub pages section, scroll to where it says branch. 
+* I picked the branch and selected the desired folder.
+* I clicked the save button.
+* I watched the build to check it was successful and then opened the website by scrolling back up and clicking the deployment link where it says "your site is live".
+
+#### Forking the GitHub Repository
+By forking the GitHub Repository you will be able to make a copy of the original repository on your own GitHub account allowing you to view and/or make changes without affecting the original repository by using the following steps:
+
+* Log in to GitHub and locate the GitHub Repository.
+* At the top of the Repository (not top of page) just above the "Settings" button on the menu, locate the "Fork" button.
+* You should now have a copy of the original repository in your GitHub account.
+
+#### Making a local clone
+* Log in to GitHub and locate the GitHub Repository.
+* Under the repository name, click "Clone or download".
+* To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+* Open commandline interface on your computer.
+* Change the current working directory to the location where you want the cloned directory to be made.
+* Type git clone, and then paste the URL you copied above.
+* Press Enter. Your local clone will be created.
 
 ## Credits
 ***
 ---
 ---
 * https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
-* Brian Design tutorials
+* Brian Design tutorials.
+* Rich Wells for guiding me in the right direction and helping me solve issues and furthering my knowledge of JavaScript.
+* I followed the information from the ReadMe of Donna Maguire who submitted her project in the peer review channel as I was struggling to describe how to make a clone and forking a repository for others trying to edit and clone my project.
 
 ## Notes
 ---
