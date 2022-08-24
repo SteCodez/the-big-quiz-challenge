@@ -1,11 +1,12 @@
 # Project-2-The Big Quiz Challange
 ## Table of Contents
-1. [General Info](#GeneralInfo)
-2. [User Stories](#UserStories)
-3. [Layout and Design](#LayoutandDesign)
-4. [Technologies Used](#Technologies)
+1. [GeneralInfo](#GeneralInfo)
+2. [UserStories](#UserStories)
+3. [Design](#Design)
+4. [Technologies](#Technologies)
 5. [Testing](#Testing)
-6. [Credits](#Credits)
+6. [Deplpoyment](Deployment)
+7. [Credits](#Credits)
 
 ## General Info
 ---
@@ -39,7 +40,7 @@
 ---
 ---
 
-## Layout and Design
+## Design
 
 ---
 ---
