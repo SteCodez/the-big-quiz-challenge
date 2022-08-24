@@ -1,4 +1,4 @@
-/* the code below has been taken from a tutorial */
+/* the code below has been taken from a tutorial but has been hand typed */
 
 const highScoresList = document.querySelector('#highScoresList')
 const highScores = JSON.parse(localStorage.getItem('highScores')) || []
