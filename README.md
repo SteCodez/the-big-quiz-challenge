@@ -201,7 +201,7 @@ By forking the GitHub Repository you will be able to make a copy of the original
 * https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
 * Brian Design tutorials.
 * Rich Wells for guiding me in the right direction and helping me solve issues and furthering my knowledge of JavaScript.
-* I followed the information from the ReadMe of Donna Maguire who submitted her project in the peer review channel as I was struggling to describe how to make a clone and forking a repository for others trying to edit and clone my project.
+* I followed the information from the ReadMe of Donna Maguire who submitted her project in the peer review channel to describe how to make a clone and forking a repository for others trying to edit and clone my project.
 
 ## Notes
 ---
