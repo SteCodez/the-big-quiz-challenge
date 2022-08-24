@@ -15,7 +15,7 @@
 ## General Info
 ***
 ---
----
+
 
 * The purpose of this site is to make a fun but challanging quiz application using HTML, CSS and JavaScript. 
 * I followed multiple tutorials in preperation for this and created this project through a tutorial as well as others 4 times before having my own shot at it.
@@ -48,7 +48,7 @@
 ## Design
 ***
 ---
----
+
 #### Wireframes
 * I am currently very unhappy about the quality of my Wireframes. Unfortunately my free subscription with Balsamiq had expired. I found it hard to find a strong replacement for Balsamiq as I found it very easy to use with some fantastic functions. The replacement I used for the Wireframes was called Uizard. It was very basic and I found it very complicated, actually near impossible to get even very basic wireframing done as the quality of the tools were poor and even something as simple as copying an inputted feature and pasting it would place the pasted item halfway across the screen onto another wireframe. 
 
@@ -90,7 +90,7 @@ The color pallete I went with was black background with all blue buttons except 
 ## Technologies
 ***
 ---
----
+
 * HTML5 
 * CSS
 * VSCode
@@ -108,7 +108,7 @@ The color pallete I went with was black background with all blue buttons except 
 ## Testing
 ***
 ---
----
+
 * As I read through the code multiple times I am happt to say that there was a total of 1 error through all of the validation which was quickly resolved as a minor typo.
 
  | What is expected. | Did the element successfully perform its task? If not, why? | How was the issue fixed? | Approved/issue resolved? |
@@ -136,7 +136,7 @@ The color pallete I went with was black background with all blue buttons except 
 ## Deployment
 ***
 ---
----
+
 #### Deploying on GitHub pages
 * After creating all of the neccessary files for my project on VScode I committed the bulk of my code to GitHub.
 * After pulling all the code I navigated to my project repo.
@@ -166,7 +166,7 @@ By forking the GitHub Repository you will be able to make a copy of the original
 ## Credits
 ***
 ---
----
+
 * https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
 * Brian Design tutorials.
 * Rich Wells for guiding me in the right direction and helping me solve issues and furthering my knowledge of JavaScript.
@@ -175,5 +175,7 @@ By forking the GitHub Repository you will be able to make a copy of the original
 ## Notes
 ---
 ---
-* I am aware that all of my files should have been compiled and was sure I would be able to do it at the end, unfortunately I had a conflict between VScode and GitHub which I was unable to resolve even tho I searched thoroughly online for methods of doing so. Somehow 2 branches clashed from me committing and it became a bit of a cluster mess and I had progressed passed that stage so I was fearful of fixing this issue and having the commit pushed and resetting all of the work I have done.
+
+* I am aware that all of my coding files should have been compiled into folders and was sure I would be able to do it at the end, unfortunately I had a conflict between VScode and GitHub which I was unable to resolve even tho I searched thoroughly online for methods of doing so. Somehow 2 branches clashed from me committing and it became a bit of a cluster mess and I had progressed passed that stage so I was fearful of fixing this issue and having the commit pushed and resetting all of the work I have done. 
 * This issue is something I will address and should have done immediately. Fortunately it does not have a detremental effect on the project content itself but makes the project harder to navigate for other developers.
+
