@@ -1,3 +1,5 @@
+/* the code below has been taken from a tutorial */
+
 const highScoresList = document.querySelector('#highScoresList')
 const highScores = JSON.parse(localStorage.getItem('highScores')) || []
 
