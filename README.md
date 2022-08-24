@@ -7,9 +7,13 @@
 5. [Testing](#Testing)
 6. [Deplpoyment](Deployment)
 7. [Credits](#Credits)
+---
+---
 
 ## General Info
 ***
+---
+---
 
 * The purpose of this site is to make a fun but challanging quiz application using HTML, CSS and JavaScript. 
 * I followed multiple tutorials in preperation for this and created this project through a tutorial as well as others 4 times before having my own shot at it.
@@ -41,7 +45,8 @@
 
 ## Design
 ***
-
+---
+---
 #### Wireframe
 * [Wireframe, phones](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/phone_wireframes.png)
 * [Wireframe, tablets](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wireframes_tablet.png)
@@ -80,7 +85,8 @@ The color pallete I went with was black background with all blue buttons except 
 ---
 ## Technologies
 ***
-
+---
+---
 * HTML5 
 * CSS
 * VSCode
@@ -97,7 +103,8 @@ The color pallete I went with was black background with all blue buttons except 
 ---
 ## Testing
 ***
-
+---
+---
 * As I read through the code multiple times I am happt to say that there was a total of 1 error through all of the validation which was quickly resolved as a minor typo.
 
  | What is expected. | Did the element successfully perform its task? If not, why? | How was the issue fixed? | Approved/issue resolved? |
@@ -124,16 +131,19 @@ The color pallete I went with was black background with all blue buttons except 
 
 ## Deployment
 ***
-
+---
+---
 *
 
 ## Credits
 ***
-
+---
+---
 * https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
 * Brian Design tutorials
 
 ## Notes
-
+---
+---
 * I am aware that all of my files should have been compiled and was sure I would be able to do it at the end, unfortunately I had a conflict between VScode and GitHub which I was unable to resolve even tho I searched thoroughly online for methods of doing so. Somehow 2 branches clashed from me committing and it became a bit of a cluster mess and I had progressed passed that stage so I was fearful of fixing this issue and having the commit pushed and resetting all of the work I have done.
 * This issue is something I will address and should have done immediately. Fortunately it does not have a detremental effect on the project content itself but makes the project harder to navigate for other developers.
