@@ -1,3 +1,5 @@
+/* The below code has been taken from a tutorial but has been hand typed */
+
 const username = document.querySelector('#username')
 const saveScoreBtn = document.querySelector('#saveScoreBtn')
 const finalScore = document.querySelector('#finalScore')
