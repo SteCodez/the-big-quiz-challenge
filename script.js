@@ -164,7 +164,7 @@ startGame = () => {
     getNewQuestion()
 }
 
-var getNewQuestion = () => {
+getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score)
 
@@ -213,9 +213,9 @@ choices.forEach(choice => {
     })
 })
 
-var incrementScore = num => {
+incrementScore = num => {
     score += num
     scoreText.innerText = score
 }
 
-var startGame()
+startGame()
