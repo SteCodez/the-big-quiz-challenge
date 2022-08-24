@@ -9,8 +9,7 @@
 7. [Credits](#Credits)
 
 ## General Info
----
----
+***
 
 * The purpose of this site is to make a fun but challanging quiz application using HTML, CSS and JavaScript. 
 * I followed multiple tutorials in preperation for this and created this project through a tutorial as well as others 4 times before having my own shot at it.
@@ -41,9 +40,8 @@
 ---
 
 ## Design
+***
 
----
----
 #### Wireframe
 * [Wireframe, phones](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/phone_wireframes.png)
 * [Wireframe, tablets](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wireframes_tablet.png)
@@ -70,15 +68,17 @@ The color pallete I went with was black background with all blue buttons except 
 * The design leaves a lot of room for improvements if desired and the color scheme is very easily changed without compromising the overall color palette of the app.
 * The site is 100% responsive across all devices of all shapes and sizes making for an extremely accessible gaming experience catering for all manners of peple from all walks of life.
 
-[Overall Responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/responsive_design_test.png) 
-[Quiz mobile Responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/quiz_game_responsiveness.png)
-[Home page mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/mobile_responsiveness.png)
-[Leaderboard mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/leaderboard_responsiveness.png)
+* [Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/responsive_design_test.png) 
+* [Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_quiz.png)
+* [Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_end.png)
+* [Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_leaderboard.png)
+* [Quiz mobile Responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/quiz_game_responsiveness.png)
+* [Home page mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/mobile_responsiveness.png)
+* [Leaderboard mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/leaderboard_responsiveness.png)
 
 ---
 ---
 ## Technologies
-
 ***
 
 * HTML5 
@@ -96,6 +96,7 @@ The color pallete I went with was black background with all blue buttons except 
 ---
 ---
 ## Testing
+***
 
 * As I read through the code multiple times I am happt to say that there was a total of 1 error through all of the validation which was quickly resolved as a minor typo.
 
@@ -120,6 +121,11 @@ The color pallete I went with was black background with all blue buttons except 
 * [Game.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/game.css_validation.png)
 * [Highscore.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/highscores.css_validation.png)
 
+
+## Deployment
+***
+
+*
 
 ## Credits
 ***
