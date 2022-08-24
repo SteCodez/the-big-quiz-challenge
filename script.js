@@ -1,3 +1,5 @@
+/* The below code is taken from a tutorial but has been hand typed */
+
 const question = document.querySelector('#question');
 const choices = Array.from(document.querySelectorAll('.choice-text'));
 const progressText = document.querySelector('#progressText');
