@@ -12,18 +12,15 @@
 ---
 ---
 
-## General Info
+## General Info and purpose of project
 ***
----
-
 
 * The purpose of this site is to make a fun but challanging quiz application using HTML, CSS and JavaScript. 
 * I followed multiple tutorials in preperation for this and created this project through a tutorial as well as others 4 times before having my own shot at it.
 * Even though I followed a tutorial I physically typed every single letter of code myself and can now say I have a good understanding of the what/why in the code and feel I have developed a much better understanding of JavaScript as a whole.
 * I genuinely struggled throughout this section of the course but after completing this project over and over again I can say with confidence I am happy with the progression of my JavaScript although a lot of extra work is to be done to be at a level where I could create this app on my own.
 * The bulk of the styling is based on a tutorial but I had to customize it with my own media queries as they were not present and added my own flare on the style itself.
-* Overall I am extremely comfortable with CSS and HTML, I find them very straightforward and easy to use so I felt.
-* The JavaScript tutorial owner is a YouTuber named Brian Design, the vast majority of the code was created and can only be credited to him.
+
 
 ---
 ## User Stories
@@ -36,6 +33,7 @@
 * A leaderboard to show past scores.
 * A visual response making me aware of a correct/incorrect answer.
 * A visually appealing site.
+
  
  #### **As a user returning to this application the things I would like to see are.**
  * New questions.
@@ -49,7 +47,6 @@
 
 ## Design
 ***
----
 
 #### Wireframes
 * I am currently very unhappy about the quality of my Wireframes. Unfortunately my free subscription with Balsamiq had expired. I found it hard to find a strong replacement for Balsamiq as I found it very easy to use with some fantastic functions. The replacement I used for the Wireframes was called Uizard. It was very basic and I found it very complicated, actually near impossible to get even very basic wireframing done as the quality of the tools were poor and even something as simple as copying an inputted feature and pasting it would place the pasted item halfway across the screen onto another wireframe. 
@@ -59,6 +56,14 @@
 * [Wireframe, full screen](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/computer_wireframe_one.png)
 * [Wireframe, full screen part two](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/computer_wireframes_two.png)
 ---
+#### UX Goals
+* An easy flowing website with clear demonstration of purpose.
+* Quick and easy access to different pages of the site.
+* Fast loading times to avoid boredom and frustration.
+* All content remains centered throughout the UX.
+* A clear path of where and how to proceed through the website.
+* Easy on the eye with a pleasing color scheme.
+
  #### Fonts
 * The font used throughout the app is Nova, its a simple font that adds a retro feel. I felt adding a secondary font was uncalled for as the site as a whole is not type heavy and the color scheme and layout of everything breaks the site up nicely enough to allow one font to look consistently well placed.
 
@@ -86,12 +91,12 @@ The color pallete I went with was black background with all blue buttons except 
 * [Quiz mobile Responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/quiz_game_responsiveness.png)
 * [Home page mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/mobile_responsiveness.png)
 * [Leaderboard mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/leaderboard_responsiveness.png)
+ 
 
 ---
 ---
 ## Technologies
 ***
----
 
 * HTML5 
 * CSS
@@ -109,7 +114,6 @@ The color pallete I went with was black background with all blue buttons except 
 ---
 ## Testing
 ***
----
 
 * As I read through the code multiple times I am happt to say that there was a total of 1 error through all of the validation which was quickly resolved as a minor typo.
 
@@ -126,6 +130,8 @@ The color pallete I went with was black background with all blue buttons except 
 |Testing "CSS" pages on the W3C Validator. | Zero errors shown. |  | Yes.
 |Testing "JavaScript" files on JShint. | A few warnings shown, mostly for lack of semicolons. Some undefined variables but overall a good responses and no issues with the functionality of the site. |  | Yes.
 
+* [Lighthouse first run](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/lighthouse_test_one.png)
+* [Lighthouse second run](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/lighthouse_test_two.png)
 * [Home page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/index.html_validation.png)
 * [Quiz page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/game.html_validation.png)
 * [End page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/end.html_validation.png)
@@ -134,6 +140,27 @@ The color pallete I went with was black background with all blue buttons except 
 * [Game.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/game.css_validation.png)
 * [Highscore.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/highscores.css_validation.png)
 
+#### Devices tested on
+* iPhone Xr
+* iPhone 11
+* iPhone 10
+* iPhone 6/7/8
+* iPad
+* Samsung Galaxy S8
+* Samsung Galaxy S9
+* Nesyt Hub
+* iPad Air
+* iPad Mini
+
+#### Also tested by pixels
+* 320px
+* 640px
+* 900px
+
+#### Unresolved errors
+* According to the console log there were 4 errors, unfortunately I found it hard to understand why the marked variables were showing errors as the website showed complete functionality, also I left it too late to check the console log and there wasn't sufficient time to process the errors.
+
+* [Unresolved errors](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_error.png)
 
 ## Deployment
 ***
@@ -167,7 +194,6 @@ By forking the GitHub Repository you will be able to make a copy of the original
 
 ## Credits
 ***
----
 
 * https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
 * Brian Design tutorials.
@@ -178,6 +204,9 @@ By forking the GitHub Repository you will be able to make a copy of the original
 ---
 ---
 
-* I am aware that all of my coding files should have been compiled into folders and was sure I would be able to do it at the end, unfortunately I had a conflict between VScode and GitHub which I was unable to resolve even tho I searched thoroughly online for methods of doing so. Somehow 2 branches clashed from me committing and it became a bit of a cluster mess and I had progressed passed that stage so I was fearful of fixing this issue and having the commit pushed and resetting all of the work I have done. 
-* This issue is something I will address and should have done immediately. Fortunately it does not have a detremental effect on the project content itself but makes the project harder to navigate for other developers.
+* I am aware that all of my coding files should have been compiled into folders (assets/js- assets/css...) and was sure I would be able to do it at the end, unfortunately I had a conflict between VScode and GitHub which I was unable to resolve even tho I searched thoroughly online for methods of doing so. Somehow branches clashed from me committing and it became a bit of a cluster mess and I had progressed passed that stage so I was fearful of fixing this issue and having the commit pushed and resetting all of the work I have done. 
 
+[https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_conflict.png]()
+
+* This issue is something I will address and should have done immediately. Fortunately it does not have a detremental effect on the project content itself but makes the project harder to navigate for other developers.
+* Furthermore I apologize to the assessor as my ReadME format is probably not as clean as it should be, I found it difficult to get the images to work as cleanly as all of the other ReadME's I have come across, they would not display properly and I cut corners by just adding the links.
