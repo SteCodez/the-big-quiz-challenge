@@ -204,9 +204,9 @@ By forking the GitHub Repository you will be able to make a copy of the original
 ---
 ---
 
-* I am aware that all of my coding files should have been compiled into folders (assets/js- assets/css...) and was sure I would be able to do it at the end, unfortunately I had a conflict between VScode and GitHub which I was unable to resolve even tho I searched thoroughly online for methods of doing so. Somehow branches clashed from me committing and it became a bit of a cluster mess and I had progressed passed that stage so I was fearful of fixing this issue and having the commit pushed and resetting all of the work I have done. 
+* I am aware that all of my coding files should have been compiled into folders (assets/js- assets/css...) and was sure I would be able to do it at the end, unfortunately I had a conflict between VScode and GitHub which I was unable to resolve even tho I searched thoroughly online for methods of doing so. Somehow branches clashed from me committing and it became a bit of a cluster mess and I had progressed passed that stage so I was fearful of fixing this issue and having the commit pushed and resetting all of the work I have done. It also hindered my progress as I done all of the rest of my coding directly from GitHub rather than moving my work over to GitPod.
 
-[https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_conflict.png]()
+[Unresolved conflict notification](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_conflict.png)
 
 * This issue is something I will address and should have done immediately. Fortunately it does not have a detremental effect on the project content itself but makes the project harder to navigate for other developers.
 * Furthermore I apologize to the assessor as my ReadME format is probably not as clean as it should be, I found it difficult to get the images to work as cleanly as all of the other ReadME's I have come across, they would not display properly and I cut corners by just adding the links.
