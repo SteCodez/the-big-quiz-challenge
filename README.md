@@ -49,7 +49,9 @@
 ***
 ---
 ---
-#### Wireframe
+#### Wireframes
+* I am currently very unhappy about the quality of my Wireframes. Unfortunately my free subscription with Balsamiq had expired. I found it hard to find a strong replacement for Balsamiq as I found it very easy to use with some fantastic functions. The replacement I used for the Wireframes was called Uizard. It was very basic and I found it very complicated, actually near impossible to get even very basic wireframing done as the quality of the tools were poor and even something as simple as copying an inputted feature and pasting it would place the pasted item halfway across the screen onto another wireframe. 
+
 * [Wireframe, phones](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/phone_wireframes.png)
 * [Wireframe, tablets](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wireframes_tablet.png)
 * [Wireframe, full screen](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/computer_wireframe_one.png)
