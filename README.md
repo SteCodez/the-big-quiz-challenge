@@ -51,10 +51,10 @@
 #### Wireframes
 I am currently very unhappy about the quality of my Wireframes. Unfortunately my free subscription with Balsamiq had expired. I found it hard to find a strong replacement for Balsamiq as I found it very easy to use with some fantastic functions. The replacement I used for the Wireframes was called Uizard. It was very basic and I found it very complicated, actually near impossible to get even very basic wireframing done as the quality of the tools were poor and even something as simple as copying an inputted feature and pasting it would place the pasted item halfway across the screen onto another wireframe. 
 
-* [Wireframe, phones](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/phone_wireframes.png)
-* [Wireframe, tablets](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wireframes_tablet.png)
-* [Wireframe, full screen](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/computer_wireframe_one.png)
-* [Wireframe, full screen part two](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/computer_wireframes_two.png)
+* ![Wireframe, phones](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/phone_wireframes.png)
+* ![Wireframe, tablets](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wireframes_tablet.png)
+* ![Wireframe, full screen](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/computer_wireframe_one.png)
+* ![Wireframe, full screen part two](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/computer_wireframes_two.png)
 ---
 #### UX Goals
 * An easy flowing website with clear demonstration of purpose.
@@ -70,13 +70,13 @@ The font used throughout the app is Nova, its a simple font that adds a retro fe
 #### Color Palette
 The color pallete I went with was black background with all blue buttons except for the button leading to the highscores page which is yellow, also the progress bar is a shade of green. The buttons also turn green or red based on the answer being correct or incorrect. 
 
-* [Color black](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/black_color_palette.png)
-* [Color Blue](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/blue_color_palette.png)
-* [Color Yellow](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/yellow_color_palette.png)
-* [Color green](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/green_color_palette.png)
-* [No answer](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/no_answer.png)
-* [Answer correct](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/right_answer.png)
-* [Answer Incorrect](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wrong_answer.png)
+* ![Color black](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/black_color_palette.png)
+* ![Color Blue](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/blue_color_palette.png)
+* ![Color Yellow](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/yellow_color_palette.png)
+* ![Color green](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/green_color_palette.png)
+* ![No answer](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/no_answer.png)
+* ![Answer correct](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/right_answer.png)
+* ![Answer Incorrect](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wrong_answer.png)
 
 #### General Layout
 
@@ -84,13 +84,13 @@ The color pallete I went with was black background with all blue buttons except 
 * The design leaves a lot of room for improvements if desired and the color scheme is very easily changed without compromising the overall color palette of the app.
 * The site is 100% responsive across all devices of all shapes and sizes making for an extremely accessible gaming experience catering for all manners of peple from all walks of life.
 
-* [Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/responsive_design_test.png) 
-* [Overall Responsiveness Quiz](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_quiz.png)
-* [Overall Responsiveness End page](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_end.png)
-* [Overall Responsiveness Leaderboard](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_leaderboard.png)
-* [Quiz mobile Responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/quiz_game_responsiveness.png)
-* [Home page mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/mobile_responsiveness.png)
-* [Leaderboard mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/leaderboard_responsiveness.png)
+* ![Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/responsive_design_test.png) 
+* ![Overall Responsiveness Quiz](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_quiz.png)
+* ![Overall Responsiveness End page](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_end.png)
+* ![Overall Responsiveness Leaderboard](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_leaderboard.png)
+* ![Quiz mobile Responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/quiz_game_responsiveness.png)
+* ![Home page mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/mobile_responsiveness.png)
+* ![Leaderboard mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/leaderboard_responsiveness.png)
  
 
 ---
@@ -163,7 +163,7 @@ The color pallete I went with was black background with all blue buttons except 
 #### Unresolved errors
  According to the console log there were 4 errors, unfortunately I found it hard to understand why the marked variables were showing errors as the website showed complete functionality, also I left it too late to check the console log and there wasn't sufficient time to process the errors and processing errors was alot tougher due to doing everything through the live page rather than a third party like VScode where you are fed live information. In the future I intend to give myself more breathing space to properly analyze all issues that present themselves.
 
-* [Unresolved errors](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_error.png)
+* ![Unresolved errors](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_error.png)
 
 ## Deployment
 ***
@@ -209,7 +209,6 @@ By forking the GitHub Repository you will be able to make a copy of the original
 
 * I am aware that all of my coding files should have been compiled into folders (assets/js- assets/css...) and was sure I would be able to do it at the end, unfortunately I had a conflict between VScode and GitHub which I was unable to resolve even tho I searched thoroughly online for methods of doing so. Somehow branches clashed from me committing and it became a bit of a cluster mess and I had progressed passed that stage so I was fearful of fixing this issue and having the commit pushed and resetting all of the work I have done. It also hindered my progress as I done all of the rest of my coding directly from GitHub rather than moving my work over to GitPod.
 
-[Unresolved conflict notification](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_conflict.png)
+![Unresolved conflict notification](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_conflict.png)
 
-* This issue is something I will address and should have done immediately. Fortunately it does not have a detremental effect on the project content itself but makes the project harder to navigate for other developers.
-* Furthermore I apologize to the assessor as my ReadME format is probably not as clean as it should be, I found it difficult to get the images to work as cleanly as all of the other ReadME's I have come across, they would not display properly and I cut corners by just adding the links.
+* This issue is something I will address and should have done immediately. Fortunately it does not have a detremental effect on the project content itself but makes the project harder to navigate for other developers..
