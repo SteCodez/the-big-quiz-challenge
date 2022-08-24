@@ -78,9 +78,9 @@ The color pallete I went with was black background with all blue buttons except 
 * The site is 100% responsive across all devices of all shapes and sizes making for an extremely accessible gaming experience catering for all manners of peple from all walks of life.
 
 * [Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/responsive_design_test.png) 
-* [Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_quiz.png)
-* [Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_end.png)
-* [Overall Responsiveness home](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_leaderboard.png)
+* [Overall Responsiveness Quiz](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_quiz.png)
+* [Overall Responsiveness End page](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_end.png)
+* [Overall Responsiveness Leaderboard](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/general_responsiveness_leaderboard.png)
 * [Quiz mobile Responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/quiz_game_responsiveness.png)
 * [Home page mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/mobile_responsiveness.png)
 * [Leaderboard mobile responsiveness](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/leaderboard_responsiveness.png)
