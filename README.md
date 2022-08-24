@@ -49,7 +49,7 @@
 ***
 
 #### Wireframes
-* I am currently very unhappy about the quality of my Wireframes. Unfortunately my free subscription with Balsamiq had expired. I found it hard to find a strong replacement for Balsamiq as I found it very easy to use with some fantastic functions. The replacement I used for the Wireframes was called Uizard. It was very basic and I found it very complicated, actually near impossible to get even very basic wireframing done as the quality of the tools were poor and even something as simple as copying an inputted feature and pasting it would place the pasted item halfway across the screen onto another wireframe. 
+I am currently very unhappy about the quality of my Wireframes. Unfortunately my free subscription with Balsamiq had expired. I found it hard to find a strong replacement for Balsamiq as I found it very easy to use with some fantastic functions. The replacement I used for the Wireframes was called Uizard. It was very basic and I found it very complicated, actually near impossible to get even very basic wireframing done as the quality of the tools were poor and even something as simple as copying an inputted feature and pasting it would place the pasted item halfway across the screen onto another wireframe. 
 
 * [Wireframe, phones](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/phone_wireframes.png)
 * [Wireframe, tablets](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/wireframes_tablet.png)
@@ -65,7 +65,7 @@
 * Easy on the eye with a pleasing color scheme.
 
  #### Fonts
-* The font used throughout the app is Nova, its a simple font that adds a retro feel. I felt adding a secondary font was uncalled for as the site as a whole is not type heavy and the color scheme and layout of everything breaks the site up nicely enough to allow one font to look consistently well placed.
+The font used throughout the app is Nova, its a simple font that adds a retro feel. I felt adding a secondary font was uncalled for as the site as a whole is not type heavy and the color scheme and layout of everything breaks the site up nicely enough to allow one font to look consistently well placed.
 
 #### Color Palette
 The color pallete I went with was black background with all blue buttons except for the button leading to the highscores page which is yellow, also the progress bar is a shade of green. The buttons also turn green or red based on the answer being correct or incorrect. 
@@ -100,22 +100,25 @@ The color pallete I went with was black background with all blue buttons except 
 
 * HTML5 
 * CSS
+* JavaScript
 * VSCode
 * JShint
 * GitHub
 * GitPod
 * Google
+* Youtube
 * Font Awesome
 * Google Fonts
 * WebKit
 * Developer tools
+* Lighthouse
 
 ---
 ---
 ## Testing
 ***
 
-* As I read through the code multiple times I am happt to say that there was a total of 1 error through all of the validation which was quickly resolved as a minor typo.
+ As I read through the code multiple times I am happ to say that there was a total of 1 error through all of the validation of the CSS and HTML which was quickly resolved as a minor typo. 
 
  | What is expected. | Did the element successfully perform its task? If not, why? | How was the issue fixed? | Approved/issue resolved? |
    |-------------| ------------ | ------------- |------------- |
@@ -158,7 +161,7 @@ The color pallete I went with was black background with all blue buttons except 
 * 900px
 
 #### Unresolved errors
-* According to the console log there were 4 errors, unfortunately I found it hard to understand why the marked variables were showing errors as the website showed complete functionality, also I left it too late to check the console log and there wasn't sufficient time to process the errors.
+ According to the console log there were 4 errors, unfortunately I found it hard to understand why the marked variables were showing errors as the website showed complete functionality, also I left it too late to check the console log and there wasn't sufficient time to process the errors and processing errors was alot tougher due to doing everything through the live page rather than a third party like VScode where you are fed live information. In the future I intend to give myself more breathing space to properly analyze all issues that present themselves.
 
 * [Unresolved errors](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/unresolved_error.png)
 
