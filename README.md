@@ -133,15 +133,15 @@ The color pallete I went with was black background with all blue buttons except 
 |Testing "CSS" pages on the W3C Validator. | Zero errors shown. |  | Yes.
 |Testing "JavaScript" files on JShint. | A few warnings shown, mostly for lack of semicolons. Some undefined variables but overall a good responses and no issues with the functionality of the site. |  | Yes.
 
-* [Lighthouse first run](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/lighthouse_test_one.png)
-* [Lighthouse second run](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/lighthouse_test_two.png)
-* [Home page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/index.html_validation.png)
-* [Quiz page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/game.html_validation.png)
-* [End page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/end.html_validation.png)
-* [Leaderboard page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/highscores.html_validation.png)
-* [Style.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/style.css_validation.png)
-* [Game.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/game.css_validation.png)
-* [Highscore.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/highscores.css_validation.png)
+* ![Lighthouse first run](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/lighthouse_test_one.png)
+* ![Lighthouse second run](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/lighthouse_test_two.png)
+* ![Home page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/index.html_validation.png)
+* ![Quiz page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/game.html_validation.png)
+* ![End page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/end.html_validation.png)
+* ![Leaderboard page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/highscores.html_validation.png)
+* ![Style.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/style.css_validation.png)
+* ![Game.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/game.css_validation.png)
+* ![Highscore.css page validation certificate](https://github.com/SteCodez/the-big-quiz-challenge/blob/master/quiz_challenge_images_/highscores.css_validation.png)
 
 #### Devices tested on
 * iPhone Xr
